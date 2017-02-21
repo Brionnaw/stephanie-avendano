@@ -18,7 +18,7 @@ nav  {
 }
 
 .actor-name2 {
-  font-family:sans-serif;
+  font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   color:#d5d5d5;
   letter-spacing: 5px;
   font-size: 12px;
@@ -28,7 +28,7 @@ body {
   width:960px;
   padding:40px 0;
   margin:0 auto;
-  font-family:Calibri,sans-serif;
+  font-family:Calibri,"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
 #nav{
@@ -46,9 +46,8 @@ body {
   display:inline-block;padding:10px;
 }
 a {
-  color:#929a9e;
+  color:#000;
   text-decoration:none;
-  font-weight:bold;
 }
 a:hover {
   text-decoration:underline;
